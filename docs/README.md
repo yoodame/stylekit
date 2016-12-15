@@ -1,1 +1,2 @@
-# Style Quide
+# Style Quide Introduction
+
