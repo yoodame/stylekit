@@ -4,5 +4,5 @@
 * [Settings](docs/settings.md)
 * [Atoms](atoms.md)
 * [Molecules](molecules.md)
-* Organisms
+* [Organisms](organisms.md)
 
