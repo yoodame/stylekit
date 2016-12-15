@@ -1,5 +1,5 @@
 # Summary
 
-* [Introduction](/README.md)
-* [Settings](/docs/settings.md)
+* [Introduction](README.md)
+* [Settings](docs/settings.md)
 
