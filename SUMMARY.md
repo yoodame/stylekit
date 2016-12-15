@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Settings](docs/settings.md)
-* Atoms
+* [Atoms](atoms.md)
 * Molecules
 * Organisms
 
