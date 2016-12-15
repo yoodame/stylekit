@@ -2,6 +2,6 @@
   "title": "Style Kit",
   "description": "...",
   "structure": {
-    "glossary": "docs/README.md"
+    "summary":"docs/README.md"
   }
 }
