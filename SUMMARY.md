@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](docs/README.md)
 * [Settings](docs/settings.md)
 * [Atoms](docs/atoms.md)
 * [Molecules](docs/molecules.md)
