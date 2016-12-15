@@ -1,1 +1,1 @@
-# stylekit
+# Common Sense Media - Style Kit
