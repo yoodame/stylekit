@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Settings](docs/settings.md)
 * [Atoms](atoms.md)
-* Molecules
+* [Molecules](molecules.md)
 * Organisms
 
