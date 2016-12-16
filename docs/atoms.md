@@ -1,2 +1,4 @@
 # Atoms
 ## Buttons
+
+## Headings
